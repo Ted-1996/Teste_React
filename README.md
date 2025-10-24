@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Des
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/teste-react-jr.git
+git clone https://github.com/Ted-1996/teste-react-jr.git
 
 # Acesse a pasta do projeto
 cd teste-react-jr
